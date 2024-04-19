@@ -83,7 +83,7 @@ const AdminPanel = ({ username }) => {
     <div className="container d-flex">
       {/* Sidebar */}
       <div
-        className="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark"
+        className="d-flex flex-column flex-shrink-0 p-3 text-white bg-warning"
         style={{ width: "200px", height: "800px" }}
       >
         <button
